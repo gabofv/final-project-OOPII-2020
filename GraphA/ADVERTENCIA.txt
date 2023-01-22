@@ -1,0 +1,5 @@
+Seria imposible diseñar el algoritmo de A* si no tenemos un mapa o una matriz con posiciones o rutas definidas, entonces, debemos consultar al profesor si podemos tener una ruta definida con valores por defecto para asi poder dibujar el mapa y MOSTRAR la eficiencia del algoritmo y la ruta más óptima que elige para llegar a un determinado nodo.
+
+La idea del uso de A* es mostrar como es una posible implementacion de uno de los algoritmos para hallar la ruta más rápida y óptima, aparte del ya armado (DIJKSTRA)
+
+Ojo -> se incluirá las coodenadas de los puntos para el trazado del camino. Cabe resaltar que el peso por nodo para el algoritmo A* será de 1
